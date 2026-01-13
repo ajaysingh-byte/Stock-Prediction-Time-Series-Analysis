@@ -129,3 +129,7 @@ The notebook evaluates prediction performance using:
 
 ## Ajay Singh
 ### 📌 Project: Stock Prediction using Deep Learning (LSTM)
+
+## 📜 License
+
+This project is open-source and free to use for learning and educational purposes.
